@@ -6,7 +6,6 @@ import wave
 import json
 from vosk import Model, KaldiRecognizer
 import time
-
 from .models import CompanyInfo
 
 
