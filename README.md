@@ -19,6 +19,8 @@ views.py
 Ye Kabel files ko request/response handle karne ke liye hota hai. Matlab: frontend se jo data aata hai (POST/GET), usko receive karna, utils ke functions call karna, aur response return karna.
 
 Views me direct business logic nahi likhna chahiye (best practice), sirf utils ko call karke result return karna.
+<img width="908" height="826" alt="image" src="https://github.com/user-attachments/assets/bc7235dc-b25c-46aa-9ad8-6ae1acb7159a" />
+
 
 
 
